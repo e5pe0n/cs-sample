@@ -1,18 +1,13 @@
 {
-  "name": "cs-sample",
+  "name": "@cs-sample/p1",
   "version": "0.0.0",
   "description": "",
-  "workspaces": [
-    "packages/*",
-    "examples/*"
-  ],
+  "type": "module",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "MIT",
-  "dependencies": {
-    "@changesets/cli": "^2.27.9"
-  }
+  "license": "MIT"
 }
