@@ -1,7 +1,10 @@
 {
-  "name": "@cs-sample/p1",
+  "name": "@e5pe0n/cs-sample-p1",
   "version": "0.0.0",
   "description": "",
+  "publishConfig": {
+    "access": "public"
+  },
   "type": "module",
   "main": "src/index.js",
   "scripts": {

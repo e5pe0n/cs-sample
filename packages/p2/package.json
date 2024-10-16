@@ -1,5 +1,5 @@
 {
-  "name": "@cs-sample/p2",
+  "name": "@e5pe0n/cs-sample-p2",
   "version": "0.0.0",
   "description": "",
   "type": "module",
@@ -11,6 +11,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@cs-sample/p1": "^0.0.0"
+    "@e5pe0n/cs-sample-p1": "^0.0.0"
   }
 }
