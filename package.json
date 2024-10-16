@@ -8,7 +8,7 @@
   ],
   "scripts": {
     "changeset": "changeset",
-    "version": "changeset version",
+    "version": "changeset version && npm ci",
     "publish": "changeset publish",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
