@@ -1,6 +1,6 @@
 {
   "name": "@e5pe0n/cs-sample-p1",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "publishConfig": {
     "access": "public"
