@@ -3,7 +3,7 @@ name: Release
 on:
   push:
     branches:
-      - release
+      - main
 
 permissions:
   contents: write
@@ -38,6 +38,7 @@ jobs:
         with:
           version: npm run version
           publish: npm run publish
-          createGitHubRelease: false
+          commit: "chore: version up"
+          createGithubReleases: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
