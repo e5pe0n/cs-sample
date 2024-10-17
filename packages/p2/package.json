@@ -1,6 +1,6 @@
 {
   "name": "@e5pe0n/cs-sample-p2",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "type": "module",
   "main": "src/index.js",
@@ -11,6 +11,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@e5pe0n/cs-sample-p1": "^0.0.2"
+    "@e5pe0n/cs-sample-p1": "^0.0.3"
   }
 }
