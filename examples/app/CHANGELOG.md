@@ -1,5 +1,11 @@
 # app
 
+## 0.0.3
+
+### Patch Changes
+
+- @e5pe0n/cs-sample-p2@0.0.3
+
 ## 0.0.2
 
 ### Patch Changes
