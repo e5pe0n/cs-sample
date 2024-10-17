@@ -1,6 +1,6 @@
 {
   "name": "app",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "private": true,
   "description": "",
   "type": "module",
@@ -12,6 +12,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@e5pe0n/cs-sample-p2": "^0.0.3"
+    "@e5pe0n/cs-sample-p2": "^0.0.4"
   }
 }
