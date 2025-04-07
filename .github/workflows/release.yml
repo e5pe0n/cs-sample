@@ -36,7 +36,7 @@ jobs:
       - name: Create Release Pull Request or Publish to npm
         uses: changesets/action@v1
         with:
-          version: npm run version
+          version: sh -c "npm run test && npm run version"
           publish: npm run publish
           commit: "chore: version up"
           createGithubReleases: false
